@@ -46,4 +46,3 @@ const priceHistory = {
   }
 };
 
-module.exports = priceHistory;
